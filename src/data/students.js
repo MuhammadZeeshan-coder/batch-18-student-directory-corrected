@@ -28,12 +28,12 @@ export const students = [
     portfolio: "https://portfolio.agprovider.com/",
     whatsapp: "https://wa.me/923172981852",
   },
-  
+
   {
     id: 3,
     name: "Farrukh",
     image: "/students/03.png",
-    linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+    linkedin: "https://www.linkedin.com/in/farrukh-ullah-431a3b366?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     github: "https://github.com/farrukhullah1",
     portfolio: "https://farrukhs-portfolio.netlify.app/",
     whatsapp: "https://wa.me/923142953946",
@@ -71,10 +71,10 @@ export const students = [
     image: "/students/07.png",
     linkedin: "https://www.linkedin.com/in/muhammad-areeb-225560386",
     github: "https://github.com/MuhammadAreebdev",
-    portfolio: "not given",
+    portfolio: "https://muhammadareebdev.netlify.app/",
     whatsapp: "https://wa.me/923002109732",
   },
-   {
+  {
     id: 8,
     name: "Abdul Hameed",
     image: "/students/08.png",
@@ -83,5 +83,31 @@ export const students = [
     portfolio: "https://poetic-donut-ac083b.netlify.app",
     whatsapp: "https://wa.me/923228304656",
   },
-  
+  {
+    id: 9,
+    name: "Abdul Jaleel",
+    image: "/students/09.png",
+    linkedin: "https://www.linkedin.com/in/abdul-jaleel-b21b983a2?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    github: "https://github.com/abduljaleelbhutto250",
+    portfolio: "http://my-portfolio934.netlify.app/",
+    whatsapp: "https://wa.me/923097248934",
+  },
+  {
+    id: 10,
+    name: "Aden Lashari",
+    image: "/students/10.png",
+    linkedin: "https://www.linkedin.com/in/aden-lashari-52578043b/",
+    github: "https://github.com/islamicworld20117-ops",
+    portfolio: "https://argent-portfolio.netlify.app/",
+    whatsapp: "https://wa.me/923092150823",
+  },
+   {
+    id: 11,
+    name: "Zaryab",
+    image: "/students/11.png",
+    linkedin: "https://www.linkedin.com/in/zaryab-fazal-hussain-6aa3062bb/",
+    github: "https://github.com/zaryabfazal",
+    portfolio: "http://portfolio-2099.vercel.app/",
+    whatsapp: "https://wa.me/923043070479",
+  },
 ];
